@@ -1,4 +1,4 @@
-<a href="https://harsh-portfolio-three.vercel.app/"><h1 align="center">Portfolio<</h1>/a>
+<a href="https://harsh-portfolio-three.vercel.app/"><h1 align="center">Portfolio</h1>/a>
 ![logo](https://github.com/samik3301/samik3301/blob/main/image-min.png)
 <h1 align="center">Hey ✨, I'm Harsh Valambe</h1>
 <h3 align="center">A passionate developer enthusiast from India!</h3>
