@@ -1,14 +1,14 @@
-<a href="https://harsh-portfolio-three.vercel.app/">Portfolio</a>
-![logo](https://github.com/samik3301/samik3301/blob/main/image-min.png)
+
 <h1 align="center">Hey ✨, I'm Harsh Valambe</h1>
 <h3 align="center">A passionate developer enthusiast from India!</h3>
+<h3>Link for my portfolio--></h3><a href="https://harsh-portfolio-three.vercel.app/">Portfolio</a>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <br>
 
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning and mastering development skills.
 
-- 💬 Ask me about **React JS,React Native,Tailwind CSS**
+- 💬 Ask me about **Html, CSS, React JS,React Native,Javascript, TypeScript, Tailwind CSS,Node JS, Express JS, Mongo DB, MySql, FireBase, Next JS 13**
 
 - 📫 How to reach me **valambeharsh1701@gmail.com**
 
