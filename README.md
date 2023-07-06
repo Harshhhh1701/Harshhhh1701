@@ -6,7 +6,7 @@
 
 <br>
 
-- 🌱 I’m currently learning and mastering development skills.
+- 🌱 I’m currently learning and mastering development skills and I also have a keen interest in data science.
 
 - 💬 Ask me about **Html, CSS, React JS,React Native,Javascript, TypeScript, Tailwind CSS,Node JS, Express JS, Mongo DB, MySql, FireBase, Next JS 13**
 
@@ -18,6 +18,11 @@
 
 >## Git Stats
 >![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshhhh1701&show_icons=true&count_private=true&include_all_commits=true&theme=react)
+
+>## Git Streak
+> ![Git Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshhhh1701&theme=react)
+
+
 
 
 >## Languages
