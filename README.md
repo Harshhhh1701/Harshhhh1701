@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey ✨, I'm Harsh Valambe</h1>
 <h3 align="center">A passionate developer  from India!</h3>
-<h3>Link for my portfolio--></h3><a href="https://harsh-portfolio-three.vercel.app/">Portfolio</a>
+<a href="https://harsh-portfolio-three.vercel.app/">Link for my portfolio</a>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <br>
