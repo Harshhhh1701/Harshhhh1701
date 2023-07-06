@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey ✨, I'm Harsh Valambe</h1>
-<h3 align="center">A passionate developer enthusiast from India!</h3>
+<h3 align="center">A passionate developer  from India!</h3>
 <h3>Link for my portfolio--></h3><a href="https://harsh-portfolio-three.vercel.app/">Portfolio</a>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
@@ -15,6 +15,9 @@
 - ⚡ Fun fact **I'm addicted to music 🎧 !**
 
 <br>
+
+>## Git Stats
+>![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshhhh1701&show_icons=true&count_private=true&include_all_commits=true&theme=react)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
