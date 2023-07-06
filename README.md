@@ -19,6 +19,11 @@
 >## Git Stats
 >![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshhhh1701&show_icons=true&count_private=true&include_all_commits=true&theme=react)
 
+
+>## Languages
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshhhh1701&langs_count=10&layout=compact&theme=react)](https://github.com/Harshhhh1701/github-readme-stats)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
