@@ -6,7 +6,7 @@
 
 <br>
 
-- 🌱 I’m currently learning and mastering development skills and I also have a keen interest in data science.
+- 🌱 I’m currently learning and mastering development skills and I also have a keen interest in DEVOPS AND WEB3.
 
 - 💬 Ask me about **Html, CSS, React JS,React Native,Javascript, TypeScript, Tailwind CSS,Node JS, Express JS, Mongo DB, MySql, FireBase, Next JS 13**
 
