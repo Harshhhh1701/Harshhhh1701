@@ -1,6 +1,6 @@
 
-<h1 align="center">Hey ✨, I'm Harsh Valambe</h1>
-<h3 align="center">A passionate developer  from India!</h3>
+<h1 align="center">Hey ✨, I'm Harsh Valambe 👋🏽 </h1>
+<h3 align="center">A passionate developer from India!</h3>
 <a href="https://harsh-portfolio-three.vercel.app/">Link for my portfolio</a>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
@@ -8,11 +8,26 @@
 
 - 🌱 I’m currently learning and mastering development skills and I also have a keen interest in DEVOPS AND WEB3.
 
-- 💬 Ask me about **Html, CSS, React JS,React Native,Javascript, TypeScript, Tailwind CSS,Node JS, Express JS, Mongo DB, MySql, FireBase, Next JS 13**
 
 - 📫 How to reach me **valambeharsh1701@gmail.com**
 
 - ⚡ Fun fact **I'm addicted to music 🎧 !**
+
+<br>
+
+## 📦 Toolbox
+
+**Frontend Development:** `React JS` `Next.js` `TypeScript` `Material-UI` `Framer-Motion` `JavaScript` `React-Native` `HTML` `CSS` `Tailwind CSS` `Shadcn` `Chakra UI` `BootStrap` 
+
+**Backend Development:** `Node.js` `Express-JS` `SpringBoot` `Next.js`
+
+**Database Development:** `Firebase` `MongoDB`
+
+**Testing:**  `Postman` `Insomnia`
+
+**Languages:** `English` `Marathi` `Hindi`
+
+**Others:** `C++` `Java` `SQL` `Python` `Figma` `Linux` `Git` `Socket Programming(Socket IO)`
 
 <br>
 
